@@ -158,7 +158,7 @@ export default function Home() {
             <MagicCard className={`rounded-2xl overflow-hidden ${exitEffect} transition-all duration-1000 ease-in-out`}>
               <div className="p-6 flex flex-col gap-2 items-center justify-center">
                 <BlurText
-                  text="Y aun menos provable que dos niños que se conocieron jugando en el parque, se reencontraran!"
+                  text="Y aun menos probable que dos niños que se conocieron jugando en el parque, se reencontraran!"
                   delay={250}
                   animateBy="words"
                   direction="top"
@@ -192,7 +192,7 @@ export default function Home() {
             <MagicCard className={`rounded-2xl overflow-hidden ${exitEffect} transition-all duration-1000 ease-in-out`}>
               <div className="p-6 flex flex-col gap-2 items-center justify-center">
                 <BlurText
-                  text="Pero en esta vida todos tenemos diferentes opciones, así que te invito a precionar la opción 'NO' 😜"
+                  text="Pero en esta vida todos tenemos diferentes opciones, así que te invito a presionar la opción 'NO' 😜"
                   delay={250}
                   animateBy="words"
                   direction="top"
